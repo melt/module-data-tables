@@ -6,7 +6,7 @@ class DataTablesModule extends \melt\Module {
     }
 
     public static function getInfo() {
-        return "<b>Integrating DataTables into nanoMVC.</b>";
+        return "A data tables listing generator integrated with the Melt database abstraction layer.";
     }
 
     public static function getVersion() {
