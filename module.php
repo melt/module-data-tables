@@ -10,6 +10,6 @@ class DataTablesModule extends \melt\Module {
     }
 
     public static function getVersion() {
-        return "2.0.0";
+        return "0.2";
     }
 }
